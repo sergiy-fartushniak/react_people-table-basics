@@ -1,1 +1,0 @@
-{"version":3,"sources":["PeopleTable.scss"],"names":[],"mappings":"AAAA,aACE,qBAAsB,CACtB,wBAAyB","file":"main.259fd488.chunk.css","sourcesContent":[".PeopleTable {\n  border: 1px solid #000;\n  border-collapse: collapse;\n}\n"]}
